@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Lior Birendorf 3rd year Industrial Engineering student
+## Hi there! 👋 I'm Lior Birendorf 3rd year Industrial Engineering student
 
 Welcome to my GitHub profile! I'm thrilled that you stopped by to get to know me better. Allow me to introduce myself and share how I can contribute to your organization.
 
