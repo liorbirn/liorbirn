@@ -1,12 +1,12 @@
 Hi there! 👋
-I'm Lior Birendorf 3rd year Industrial Engineering student
+I'm Lior Birendorf 4rd year Industrial Engineering student
 
 Welcome to my GitHub profile! I'm thrilled that you stopped by to get to know me better.
 Allow me to introduce myself and share how I can contribute to your organization.
 
 About Me:
 
-My name is Lior Birendorf, and I'm 3rd year Industrial Engineering student with with Passion for Data, SQL & python.
+My name is Lior Birendorf, and I'm 4rd year Industrial Engineering student with with Passion for Data, SQL & python.
 I thrive on challenges and constantly seek opportunities to learn and grow. I'm a problem solver at heart and enjoy finding innovative solutions to complex issues.         
 My commitment to excellence and attention to detail allow me to deliver high-quality work, ensuring customer satisfaction and project success.
 ⚡ Fun fact about me **In my free time, my hobbies include Yoga, reading , surfing and travel in our beautiful country.**
