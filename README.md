@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Lior Birendorf 4rd year Industrial Engineering student
+I'm Lior Birendorf and I'm a Data analyst 
 
 Welcome to my GitHub profile! I'm thrilled that you stopped by to get to know me better.
 Allow me to introduce myself and share how I can contribute to your organization.
