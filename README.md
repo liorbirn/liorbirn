@@ -6,7 +6,7 @@ Allow me to introduce myself and share how I can contribute to your organization
 
 About Me:
 
-My name is Lior Birendorf, and I'm 4rd year Industrial Engineering student with with Passion for Data, SQL & python.
+My name is Lior Birendorf, an Industrial and management engineer with Passion for Data, SQL & python.
 I thrive on challenges and constantly seek opportunities to learn and grow. I'm a problem solver at heart and enjoy finding innovative solutions to complex issues.         
 My commitment to excellence and attention to detail allow me to deliver high-quality work, ensuring customer satisfaction and project success.
 ⚡ Fun fact about me **In my free time, my hobbies include Yoga, reading , surfing and travel in our beautiful country.**
